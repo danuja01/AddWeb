@@ -32,6 +32,7 @@
       slidesToScroll: 2,
       autoplay: false,
       infinite: true,
+      lazyLoad: "ondemand",
       centerMode: true,
       dots: false,
       arrows: false,
